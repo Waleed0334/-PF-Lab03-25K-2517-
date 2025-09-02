@@ -4,11 +4,16 @@ I'am Waleed Ahmed, a passionate Data Scientist. I have a strong interest in prob
 ## Programming Interests:
 1. Problem solving
 2. Python programming  
-3. Data Science and Machine Learning  
+3. Data Science  
 4. Data Visualization  
 5. Statistical Modeling
 6. Coding
-7. Exploring new technologies and tools in data science
+  ### Skills:
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Git & GitHub
 ## Hobbys
 - Playing Cricket
 - Reading Tech Blogs
