@@ -17,6 +17,5 @@ I'am Waleed Ahmed, a passionate Data Scientist. I have a strong interest in prob
 ## Hobbies:
 - Playing Cricket
 - Reading Tech Blogs
-- Problem Solving
- <Br>
+- Problem Solving<Br>
 ***Continuous learning is the key to success in data science***
